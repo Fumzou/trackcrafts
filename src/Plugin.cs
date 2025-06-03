@@ -15,7 +15,7 @@ public class Plugin : BasePlugin
 {
     private const string PluginGuid = "armanckeser.vrising.trackcrafts";
     private const string PluginName = "TrackCrafts";
-    private const string PluginVersion = "0.0.6";
+    private const string PluginVersion = "1.1.0";
      public static ManualLogSource Logger { get; private set; }
     public static ConfigEntry<int> TrackQuantity { get; private set; }
     public static ConfigEntry<float> TrackerItemScale { get; private set; }
