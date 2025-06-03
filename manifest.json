@@ -1,10 +1,10 @@
 {
   "name": "TrackCrafts",
-  "version_number": "0.0.5",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/armanckeser/TrackCrafts",
   "description": "Adds the ability to pin multiple crafting recipes",
   "dependencies": [
-    "BepInEx-BepInExPack_V_Rising-1.0.0",
-    "molenzwiebel-Wetstone-1.1.0"
+    "BepInEx-BepInExPack_V_Rising-1.1.0",
+    "gg.deca-Bloodstone-0.2.3"
   ]
 }

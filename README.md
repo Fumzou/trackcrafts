@@ -9,7 +9,7 @@ Note: Currently not auto updating
 ⚙️ Hot reloading with [Bloodstone API](https://github.com/decaprime/Bloodstone/releases)
 
 ### Installation
-- Install [BepInExPack V Rising](https://github.com/decaprime/VRising-Modding/releases/tag/1.668.2)
+- Install [BepInExPack V Rising](https://github.com/decaprime/VRising-Modding/releases/tag/1.733.2)
 - Install [Bloodstone API](https://github.com/decaprime/Bloodstone/releases)
 - Extract ``TrackCrafts.dll`` folder into _(VRising folder)/BepInEx/plugins_ or _(VRising folder)/BepInEx/BloodstonePlugins_
 
@@ -18,6 +18,11 @@ This is my first plugin, as well as my first time touching any game engine. If y
 - Auto update cost details as you add items to your inventory
 
 ### Changelog
+
+`1.1.0`
+- Updated for V Rising 1.1
+- Requires Bloodstone 0.2.3
+- Updated dependencies and BepInEx version
 
 `0.0.6`
 - Gloomrot Update

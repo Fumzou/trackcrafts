@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <AssemblyName>TrackCrafts</AssemblyName>
         <Description>Middle click on a recipe to track it. F1 to clear all. F2 to show/hide all</Description>
-        <Version>0.0.6</Version>
+        <Version>1.1.0</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>latest</LangVersion>
     </PropertyGroup>
@@ -12,8 +12,8 @@
     <ItemGroup>
         <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be*" IncludeAssets="compile" />
         <PackageReference Include="BepInEx.Core" Version="6.0.0-be*" IncludeAssets="compile" />
-        <PackageReference Include="VRising.Bloodstone" Version="0.1.1" />
-        <PackageReference Include="VRising.Unhollowed.Client" Version="0.6.5.57575003" />
+        <PackageReference Include="VRising.Bloodstone" Version="0.2.3" />
+        <PackageReference Include="VRising.Unhollowed.Client" Version="1.1.8.9179701" />
     </ItemGroup>
 
 </Project>
